@@ -1,1 +1,1 @@
-# The default keymap for kinesis-advantage
+# My custom mapping for keymap for kinesis-advantage
